@@ -64,5 +64,18 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-OpenSubtitles is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://opensubtitles.com/
+OpenSubtitles is a website dedicated to the aggregation of subtitles for audiovisual works. In 2022, OpenSubtitles was one of the 5,000 most accessed websites from the internet. OpenSubtitles was created in 2005 by the Slovak programmer Braňo. In 2018, the Federal Court of Australia issued an injunction demanding the blockage of 181 sites linked to online piracy, including OpenSubtitles. The case was filed by companies such as Village Roadshow, Disney, Twentieth Century Fox, Paramount Pictures, Columbia Pictures, Universal Pictures and Warner Bros.
+
+**Areas:** Company · subtitles · video · media · API
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://opensubtitles.com/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/opensubtitles/](https://apis.io/providers/opensubtitles/).
